@@ -15,7 +15,7 @@ or more like a set of steps to create a working database.
       - [ ] is field name supported in the table
       - [ ] does the field value conform to its data type
   - Select data
-    - [ ] select all by specific table
+    - [x] select all by specific table
     - [ ] filter data by a certain criteria
   - Update data
     - [ ] update a particular field in a document
